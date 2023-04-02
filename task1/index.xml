@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<employees>
+    <employee>
+        <name>Name: Radwa Khalil</name>
+        <phone type="work"> 0123456789</phone>
+        <phone type="mobile">01094773336</phone>
+        <phone type="home">032354545</phone>
+        <address>
+            <street>Street: 123 Main St. </street>
+            <city> City: alex</city>
+            <country>Country: Egypt</country>
+            <building>Building: 26</building>
+            <region>Region: smouha</region>
+        </address>
+        <email>Email: radwa@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Name: Alaa khalil</name>
+        <phone type="work">Work phone: 0125786790</phone>
+        <phone type="mobile">Mobile phone: 01287809888</phone>
+        <address>
+            <street>Street: 123 Main St.</street>
+            <city>City: alex</city>
+            <country>Country: Egypt</country>
+            <building>Building: 25</building>
+            <region>Region: smouha</region>
+        </address>
+        <email>Email:alaa@gmail.com</email>
+    </employee>
+</employees>
