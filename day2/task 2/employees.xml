@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+    <employee>
+        <id>64341d0e48a44</id>
+        <name>Hagar</name>
+        <email>h@gmail.com</email>
+        <phone>01094773336</phone>
+        <address>mahmoud reda</address>
+    </employee>
+</employees>
