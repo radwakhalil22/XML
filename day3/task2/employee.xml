@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+    <employee>
+        <name>Radwa</name>
+        <email>r@gmail.com</email>
+        <phone>01094773336</phone>
+        <address>mahmoudelattar</address>
+    </employee>
+</employees>
